@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yarana Kumar</h1>
 <h3 align="center">Hey there, fellow explorers of the digital realm! I'm Yarana Kumar, a dedicated data science enthusiast and aspiring data analyst. With a rock-solid foundation in data analysis and an insatiable curiosity, I'm embarking on an exhilarating journey to unveil the concealed stories residing within the vast expanse of numbers.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaranathakur&label=Profile%20views&color=0e75b6&style=flat" alt="yaranathakur" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yaranathakur&label=Profile%20views&color=0e75b6&style=flat" alt="yaranathakur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaranathakur" alt="yaranathakur" /></a> </p>
 
@@ -24,6 +24,7 @@
 - ⚡ Fun fact **"Fun Fact: When I'm not deciphering data, I'm an avid online gamer, strategizing and battling my way through virtual worlds. From RPGs to multiplayer showdowns, I'm always up for a gaming adventure! 🎮🌐**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
