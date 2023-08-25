@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yarana Kumar</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Aq8sbOJuScX8X7Vhnw/giphy.gif" width="200">
+</p>
+
+
 <h3 align="center">
   Hey there, fellow explorers of the digital realm! I'm Yarana Kumar, a dedicated data science enthusiast and aspiring data analyst. With a rock-solid foundation
   in data analysis and an insatiable curiosity, I'm embarking on an exhilarating journey to unveil the concealed stories residing within the vast expanse of numbers.
@@ -34,7 +40,7 @@
 
 - 📫 How to reach me **<yaranathakur@gmail.com>**
 
-- ⚡ Fun fact **"Fun Fact: When I'm not deciphering data, I'm an avid online gamer, strategizing and battling my way through virtual worlds. From RPGs to multiplayer showdowns, I'm always up for a gaming adventure! 🎮🌐**
+- ⚡ Fun fact: **"When I'm not deciphering data, I'm an avid online gamer, strategizing and battling my way through virtual worlds. From RPGs to multiplayer showdowns, I'm always up for a gaming adventure! 🎮🌐**
 
 
 <h3 align="center">
