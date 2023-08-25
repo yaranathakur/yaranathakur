@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yarana Kumar</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Aq8sbOJuScX8X7Vhnw/giphy.gif" width="200">
+  <img src="Y.gif" width="300">
 </p>
 
 
