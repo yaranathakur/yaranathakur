@@ -26,9 +26,9 @@
 
 - 👯 I’m looking to collaborate on [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/yaranakumar](https://sites.google.com/view/yaranakumar)
+- 👨‍💻 All of my projects are available at [www.yarana.tech](https://www.yarana.tech)
 
-- 📝 I regularly write articles on [https://medium.com/@yarana](https://medium.com/@yarana)
+- 📝 I regularly write articles on [medium](https://medium.com/@yarana)
 
 - 💬 Ask me about **Python, SQL, Microsoft Excel**
 
@@ -110,14 +110,15 @@
   </a> 
 </p>
 
-<p>
+
+<p align = "center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaranathakur&show_icons=true&locale=en&layout=compact" alt="yaranathakur" />
 </p>
 
-<p>&nbsp;
+<p align = "center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaranathakur&show_icons=true&locale=en" alt="yaranathakur" />
 </p>
 
-<p>
+<p align = "center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaranathakur&" alt="yaranathakur" />
 </p>
