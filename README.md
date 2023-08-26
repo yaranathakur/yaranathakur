@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yarana Kumar</h1>
 
 <p align="center">
-  <img src="Y.gif" width="300">
+  <img src="GIF-YARANA.gif" width="300">
 </p>
 
 
